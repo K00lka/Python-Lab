@@ -1,0 +1,5 @@
+print('Podaj długość boku trójkąta:')
+a = int(input())
+print('Podaj wysokość tego trójkąta (mierząc od podanego wcześniej boku):')
+h = int(input())
+print ('Pole twojgo trójkąta to: ',int((a*h)/2))
